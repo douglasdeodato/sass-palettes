@@ -1,0 +1,25 @@
+{
+  "name": "sass-palettes",
+  "version": "1.0.0",
+  "description": "I am Trying to archive in this project is Create A Robust Sass Palettes Colors for be usefull and reusable in projects in the easy way and writing less.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasdeodato/sass-palettes.git"
+  },
+  "author": "douglas deodato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasdeodato/sass-palettes/issues"
+  },
+  "homepage": "https://github.com/douglasdeodato/sass-palettes#readme",
+  "devDependencies": {
+    "grunt-cli": "^1.2.0",
+     "grunt-contrib-concat": "*",
+     "grunt-contrib-sass": "*",
+     "grunt-contrib-watch": "*"
+  }
+}
